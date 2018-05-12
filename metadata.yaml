@@ -1,4 +1,8 @@
 _repo: India-and-Tibet_48996
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48996-h/images/cover.jpg
 creator:
   author:
     agent_name: Younghusband, Francis Edward, Sir
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32545
     wikipedia: http://en.wikipedia.org/wiki/Francis_Younghusband
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48996#India-and-Tibet
 gutenberg_issued: '2015-05-19'
 gutenberg_type: Text
 identifiers:
